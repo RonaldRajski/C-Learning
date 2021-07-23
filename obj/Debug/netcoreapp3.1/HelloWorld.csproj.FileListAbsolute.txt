@@ -1,0 +1,12 @@
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/chief/Desktop/CodeAcademyLearnC#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

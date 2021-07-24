@@ -13,6 +13,9 @@ namespace HelloWorld
             Console.Write($"{Environment.NewLine}Press any key to exit...");
             Console.ReadKey(true);
 
+            Console.WriteLine($"{Environment.NewLine} Hello again, {name}, Please meet these crazy guys:");
+
+
         Console.WriteLine(" .-.");
       // This is a redundant code
       Console.WriteLine("(o o)");

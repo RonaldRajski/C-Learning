@@ -1,0 +1,10 @@
+using System;
+namespace GettingInput{
+    class Program{
+        static void Main(){
+            Console.Writeline("How old are you?");
+            string input = Console.ReadLine();
+            Console.WriteLine($"You are {input} years old!);
+        }
+    }
+}
